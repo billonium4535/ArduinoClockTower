@@ -2,6 +2,8 @@
 A replica of the Düsseldorf Rheinturm tv tower
 
 This code is written for controlling a strip of WS2812B addressable LEDs using the FastLED library. It creates a digital clock display on the LED strip, showing the current time in hours, minutes, and seconds.
+
+A video demonstation can be found [here](https://youtu.be/f4vljxVX1GM).
 ## Hardware Requirements
 
 - WS2812B addressable LED strip
